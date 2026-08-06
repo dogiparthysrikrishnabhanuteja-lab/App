@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield emblem -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,24 L78,32 C78,54 66,72 54,82 C42,72 30,54 30,32 L54,24 Z" />
+    <!-- Inner shield glow -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,28 L74,35 C74,53 64,68 54,77 L54,28 Z" />
+    <!-- Growth trend line / checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,52 L50,60 L66,42 L70,46 L50,68 L38,56 Z" />
+</vector>
